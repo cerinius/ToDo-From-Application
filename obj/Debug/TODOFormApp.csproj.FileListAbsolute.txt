@@ -1,0 +1,9 @@
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\TODOFormApp\obj\Debug\TODOFormApp.csprojAssemblyReference.cache
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\TODOFormApp\obj\Debug\TODOFormApp.Properties.Resources.resources
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\TODOFormApp\obj\Debug\TODOFormApp.csproj.GenerateResource.cache
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\TODOFormApp\obj\Debug\TODOFormApp.csproj.CoreCompileInputs.cache
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\TODOFormApp\bin\Debug\TODOFormApp.exe.config
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\TODOFormApp\bin\Debug\TODOFormApp.exe
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\TODOFormApp\bin\Debug\TODOFormApp.pdb
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\TODOFormApp\obj\Debug\TODOFormApp.exe
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\TODOFormApp\obj\Debug\TODOFormApp.pdb
